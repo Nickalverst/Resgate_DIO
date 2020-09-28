@@ -1,5 +1,5 @@
 # Resgate_DIO
-Resultado do curso "Construindo o seu primeiro jogo de naves", da Digital Innovation One. 
+Resultado do curso "Construindo o seu primeiro jogo de naves", ministrado por [Denilson Bonatti](https://github.com/denilsonbonatti "Denilson Bonatti") na plataforma [Digital Innovation One](https://digitalinnovation.one/ "Digital Innovation One").
 
 ### Descrição
 
